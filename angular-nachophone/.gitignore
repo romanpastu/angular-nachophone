@@ -45,4 +45,5 @@ testem.log
 .DS_Store
 Thumbs.db
 
+#ignore environment.ts
 *.environment.ts
